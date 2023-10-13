@@ -1,2 +1,1 @@
 echo "Iniciando Pipeline do Jenkins"
-python3 hellop.py
